@@ -13,3 +13,10 @@
   - [x] Validação da autenticação no usuario logado.
   
   ---
+
+  ### **Criar Categoria**
+
+- [x] O Usuário precisa estár autenticado no sistema para criar a categoria
+  - [x] Não deve ser possivel criar categoria de nome já existente.
+    
+  ---
